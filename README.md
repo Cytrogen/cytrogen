@@ -4,5 +4,5 @@
 
 <div align="center">
     <h3>项目</h3>
-    <div>QQ群聊机器人<a href="https://github.com/Cytrogen/kami-bot">KAMI-BOT</a></div>
+    <div>QQ群聊机器人<a href="https://github.com/Cytrogen/hoka-bot">HOKA-BOT</a></div>
 </div>
