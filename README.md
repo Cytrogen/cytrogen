@@ -1,4 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytrogen)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytrogen&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
 
 <div align="center">
     <h1>这里是 <a href="https://github.com/Cytrogen">万圣节恶魔</a> 的领地</h1>
