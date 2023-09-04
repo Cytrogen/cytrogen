@@ -13,7 +13,7 @@
 <div align="center">
     <div><a href="en.md">ENGLISH</a></div>
     <h3>项目执行中<s>鸽了</s></h3>
-    <div>QQ群聊机器人：<a href="https://github.com/Cytrogen/hoka-bot">Hoka-Bot</a></div>
-    <div>Python控制台小游戏：<a href="https://github.com/Cytrogen/Adventure-of-snow">毛雪大冒险</a></div>
-    <div>Game Jam的Unity产物：<a href="https://github.com/Cytrogen/mission-of-reaper">Mission Of Reaper</div>
+    <div>QQ群聊机器人：<a href="https://github.com/Cytrogen/hoka-bot">Hoka-Bot</a> 【已完全停止更新】</div>
+    <div>Hexo简历主题：<a href="https://github.com/Cytrogen/hexo-theme-anatole-core-resume">Hexo-Theme-Anatole-Core-Resume</a></div>
+    <div>以及各种鬼畜的小练习……</div>
 </div>
