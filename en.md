@@ -1,19 +1,13 @@
-<div align="center">
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytrogen&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[读中文](README.md)
 
-</div>
+# Welcome to [Cytrogen](https://github.com/Cytrogen)'s Territory
 
-<div align="center">
-    <h1>Welcome to <a href="https://github.com/Cytrogen">Cytrogen's</a> Land</h1>
-</div>
+I'm a college freshman student this year, right now learning React + NestJS + MongoDB tech stack. Goal for the year is to complete IBM's Full Stack Development MicroBachelor's program.
 
-<div align="center">
-    <div><a href="README.md">中文</a></div>
-    <h3>Project in Progress</h3>
-    <div>QQ Group Chat Bot: <a href="https://github.com/Cytrogen/hoka-bot">Hoka-Bot</a> [No Longer Maintained]</div>
-    <div>Hexo theme: <a href="https://github.com/Cytrogen/hexo-theme-anatole-core-resume">Hexo-Theme-Anatole-Core-Resume</a></div>
-    <div>And a bunch of weird practices...</div>
-</div>
+In the past, I mainly learned Python to web scrape, and to build QQ bots with Nonebot2 + GoCqhttp.
+
+I have interests in blogging. My [blog site](https://cytrogen.icu) uses Hexo engine. (Unfortunately, the blog posts are written in Simplified Chinese only, and I won't consider writing English ones recently)
+
+I am interested in game development but not much; I can draw but not much; I am "tone deaf" (not really but you know); I am learning Japanese.
