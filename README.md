@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [你踏入了万圣节恶魔的领地！](https://cytrogen.icu/posts/b232.html)
 - [React + NestJS + Socket.io项目实践【2】：JWT验证](https://cytrogen.icu/posts/40b4.html)
 - [Pug学习笔记](https://cytrogen.icu/posts/a039.html)
 - [React + NestJS + Socket.io项目实践【1】：从Express迁移](https://cytrogen.icu/posts/3b97.html)
 - [MTH 2207笔记](https://cytrogen.icu/posts/2537.html)
+- [IBM全栈开发【6】：容器 &amp; Kubernetes和OpenShift简介](https://cytrogen.icu/posts/eb2a.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
