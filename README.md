@@ -29,8 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/xueshanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xueshanw" height="30" width="40" /></a>
-<a href="https://fb.com/xueshan wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xueshan wang" height="30" width="40" /></a>
-<a href="https://instagram.com/ianthebaldguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianthebaldguy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61550253733197&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xueshan wang" height="30" width="40" /></a>
 <a href="https://discord.gg/cytrogen64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cytrogen64" height="30" width="40" /></a>
 <a href="/https://cytrogen.icu/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cytrogen.icu/atom.xml" height="30" width="40" /></a>
 </p>
