@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ByteByteGo 简报翻译【1】：Netflix 如何管理 2.38 亿会员？](https://cytrogen.icu/posts/75ba.html)
 - [IBM全栈开发【12】：Git和GitHub入门](https://cytrogen.icu/posts/369.html)
 - [IBM全栈开发【11】：全栈应用程序开发项目](https://cytrogen.icu/posts/fa4d.html)
 - [IBM全栈开发【10】：微服务和无服务器](https://cytrogen.icu/posts/52e3.html)
 - [IBM全栈开发【9】：使用SQL和数据库开发Django应用程序](https://cytrogen.icu/posts/407.html)
-- [Hexo源代码分析【1】：入口文件](https://cytrogen.icu/posts/5d57.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
