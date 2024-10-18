@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MUS 1003 笔记](https://cytrogen.icu/posts/8386.html)
+- [IBM全栈开发【13·下】：全栈应用程序开发者毕业设计](https://cytrogen.icu/posts/ed32.html)
 - [IBM全栈开发【13·上】：全栈应用程序开发者毕业设计](https://cytrogen.icu/posts/41a3.html)
 - [Hexo 本地搜索插件教程](https://cytrogen.icu/posts/49c3.html)
 - [ByteByteGo 简报翻译【1】：Netflix 如何管理 2.38 亿会员？](https://cytrogen.icu/posts/75ba.html)
-- [IBM全栈开发【12】：Git和GitHub入门](https://cytrogen.icu/posts/369.html)
-- [IBM全栈开发【11】：全栈应用程序开发项目](https://cytrogen.icu/posts/fa4d.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
