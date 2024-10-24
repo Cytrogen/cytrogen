@@ -5,15 +5,15 @@
 
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cytrogen" alt="cytrogen" /></a> </p>)
 
-- 🔭 目前在做 / I’m currently working on [Hotaru.TS](https://github.com/Cytrogen/Hotaru.TS)
+- 🔭 目前在做 / I’m currently working on non-open source project
 
-- 🌱 目前在学 / I’m currently learning **NestJS**
+- 🌱 目前在学 / I’m currently learning **React** and **NestJS**
 
 - 📝 我的博客 / My blog: [https://cytrogen.icu](https://cytrogen.icu)
 
 - 📫 联系我 / How to reach me **xuewang414@icloud.com**
 
-- 📄 了解我的经历 / Know about my experiences [https://resume.cytrogen.icu](https://resume.cytrogen.icu)
+- 📄 了解我的经历 / Know about my experiences [https://resume.cytrogen.icu](https://resume.cytrogen.icu) (this is out-dated)
 
 - ⚡ Fun fact: 日本語を勉強しますね！
 
