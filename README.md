@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React + NestJS购物平台练习【4】用户注册功能](https://cytrogen.icu/posts/8853.html)
 - [React + NestJS购物平台练习【3】数据设计与实现](https://cytrogen.icu/posts/5a4b.html)
 - [React + NestJS购物平台练习【2】后端项目框架搭建](https://cytrogen.icu/posts/8e94.html)
 - [React + NestJS购物平台练习【1】前端项目框架搭建](https://cytrogen.icu/posts/6d86.html)
 - [MUS 1003 笔记](https://cytrogen.icu/posts/8386.html)
-- [IBM全栈开发【13·下】：全栈应用程序开发者毕业设计](https://cytrogen.icu/posts/ed32.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
