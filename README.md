@@ -9,7 +9,7 @@
 
 - 🌱 目前在学 / I’m currently learning **React** and **NestJS**
 
-- 📝 我的博客 / My blog: [https://cytrogen.icu](https://cytrogen.icu) (Chinese only)
+- 📝 我的博客 / My blog: [https://cytrogen.icu](https://cytrogen.icu)
 
 - 📫 联系我 / How to reach me **xuewang414@icloud.com**
 
