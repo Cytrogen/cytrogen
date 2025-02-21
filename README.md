@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Markdown Rendering in React](https://cytrogen.icu/posts/f27d.html)
+- [Batch Merging TS Files Using ffmpy3](https://cytrogen.icu/posts/6976.html)
 - [React + NestJS购物平台练习【5】用户登录功能](https://cytrogen.icu/posts/270a.html)
 - [Hexo i18n Configuration](https://cytrogen.icu/posts/567.html)
 - [Hexo 配置 i18n](https://cytrogen.icu/posts/17cc.html)
-- [React + NestJS购物平台练习【4】用户注册功能](https://cytrogen.icu/posts/8853.html)
-- [React + NestJS购物平台练习【3】数据设计与实现](https://cytrogen.icu/posts/5a4b.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
