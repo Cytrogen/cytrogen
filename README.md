@@ -13,7 +13,7 @@
 
 - 📫 联系我 / How to reach me **xuewang414@icloud.com**
 
-- 📄 了解我的经历 / Know about my experiences ~[https://resume.cytrogen.icu](https://resume.cytrogen.icu)~ (this is out-dated)
+- 📄 了解我的经历 / Know about my experiences [https://portfolio.cytrogen.icu](https://portfolio.cytrogen.icu)
 
 - ⚡ Fun fact: 日本語を勉強しますね！
 
