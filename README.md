@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [用 JavaScript 自制 GameBoy 模拟器（上）](https://cytrogen.icu/posts/4148.html)
 - [CMP 2800 笔记](https://cytrogen.icu/posts/5e08.html)
 - [Markdown Rendering in React](https://cytrogen.icu/posts/f27d.html)
 - [Batch Merging TS Files Using ffmpy3](https://cytrogen.icu/posts/6976.html)
 - [React + NestJS购物平台练习【5】用户登录功能](https://cytrogen.icu/posts/270a.html)
-- [Hexo i18n Configuration](https://cytrogen.icu/posts/567.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
