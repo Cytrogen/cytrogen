@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Pico Plays Music Via Active Buzzer](https://cytrogen.icu/posts/9781.html)
 - [Hexo源代码分析【2】：「generate」的奇幻漂流](https://cytrogen.icu/posts/d601.html)
 - [用 JavaScript 自制 GameBoy 模拟器（上）](https://cytrogen.icu/posts/4148.html)
 - [CMP 2800 笔记](https://cytrogen.icu/posts/5e08.html)
 - [Markdown Rendering in React](https://cytrogen.icu/posts/f27d.html)
-- [Batch Merging TS Files Using ffmpy3](https://cytrogen.icu/posts/6976.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
