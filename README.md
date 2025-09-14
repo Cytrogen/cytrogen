@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [博客重构记录](https://cytrogen.icu/posts/7f58.html)
 - [Svg2SvgIcon：将 SVG 转为 Material-UI SvgIcon](https://cytrogen.icu/posts/369e.html)
 - [Raspberry Pi Pico Plays Music Via Active Buzzer](https://cytrogen.icu/posts/9781.html)
 - [Hexo源代码分析【2】：「generate」的奇幻漂流](https://cytrogen.icu/posts/d601.html)
 - [用 JavaScript 自制 GameBoy 模拟器（上）](https://cytrogen.icu/posts/4148.html)
-- [CMP 2800 笔记](https://cytrogen.icu/posts/5e08.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
