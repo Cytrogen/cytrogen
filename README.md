@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [代码、哲学与混乱的 Discord 服务器](https://cytrogen.icu/posts/828f.html)
 - [Hexo 博客的中文排版自动修正插件](https://cytrogen.icu/posts/b52f.html)
 - [博客重构记录](https://cytrogen.icu/posts/7f58.html)
 - [Svg2SvgIcon：将 SVG 转为 Material-UI SvgIcon](https://cytrogen.icu/posts/369e.html)
 - [Raspberry Pi Pico Plays Music Via Active Buzzer](https://cytrogen.icu/posts/9781.html)
-- [Hexo 源代码分析【2】：「generate」的奇幻漂流](https://cytrogen.icu/posts/d601.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
