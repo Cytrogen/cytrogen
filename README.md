@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [在 Hexo 项目中添加 Webmention](https://cytrogen.icu/posts/1de.html)
 - [想法在乙巳菊月迭代](https://cytrogen.icu/posts/dc84.html)
 - [代码、哲学与混乱的 Discord 服务器](https://cytrogen.icu/posts/828f.html)
 - [Hexo 博客的中文排版自动修正插件](https://cytrogen.icu/posts/b52f.html)
 - [博客重构记录](https://cytrogen.icu/posts/7f58.html)
-- [Svg2SvgIcon：将 SVG 转为 Material-UI SvgIcon](https://cytrogen.icu/posts/369e.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
