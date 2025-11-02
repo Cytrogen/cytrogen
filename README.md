@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [想法在乙巳开冬迭代](https://cytrogen.icu/posts/ea48.html)
+- [孩童和恐怖游戏](https://cytrogen.icu/posts/e068.html)
+- [创业宣传策略](https://cytrogen.icu/posts/c3f9.html)
 - [性暴力的苗头是加害者](https://cytrogen.icu/posts/5c85.html)
 - [你只是在怪她没有选你](https://cytrogen.icu/posts/e0dc.html)
-- [吃免费的饭，骂做饭的厨子](https://cytrogen.icu/posts/a2a2.html)
-- [在 Hexo 项目中添加 Webmention](https://cytrogen.icu/posts/1de.html)
-- [想法在乙巳菊月迭代](https://cytrogen.icu/posts/dc84.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
