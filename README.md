@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hexo 和 Typora 的完美图片工作流](https://cytrogen.icu/posts/96d8.html)
 - [离开父母对成年子女独立性的帮助](https://cytrogen.icu/posts/96d1.html)
 - [想法在乙巳开冬迭代](https://cytrogen.icu/posts/ea48.html)
 - [孩童和恐怖游戏](https://cytrogen.icu/posts/e068.html)
 - [创业宣传策略](https://cytrogen.icu/posts/c3f9.html)
-- [性暴力的苗头是加害者](https://cytrogen.icu/posts/5c85.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
