@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [我在谈论共情，他们在谈论逻辑](https://cytrogen.icu/posts/d4e5.html)
 - [在 AI 恐慌的时代，熟练度是一种累赘](https://cytrogen.icu/posts/d38e.html)
 - [What About…… 和比烂](https://cytrogen.icu/posts/dfa8.html)
 - [Hexo 和 Typora 的完美图片工作流](https://cytrogen.icu/posts/96d8.html)
 - [离开父母对成年子女独立性的帮助](https://cytrogen.icu/posts/96d1.html)
-- [想法在乙巳开冬迭代](https://cytrogen.icu/posts/ea48.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
