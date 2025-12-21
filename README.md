@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [你缺这 2.75 美元吗](https://cytrogen.icu/posts/d33e.html)
 - [儿童网红背后的黑暗](https://cytrogen.icu/posts/196a.html)
 - [I had &lpar;maybe&rpar; the worst computer class in my life](https://cytrogen.icu/posts/e955.html)
 - [请学会如何读空气吧](https://cytrogen.icu/posts/5a85.html)
 - [想法在乙巳纸月迭代](https://cytrogen.icu/posts/31df.html)
-- [我在谈论共情，他们在谈论逻辑](https://cytrogen.icu/posts/d4e5.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
