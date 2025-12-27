@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [观《疯狂动物城 2》](https://cytrogen.icu/posts/7240.html)
 - [当 True 并不是 True](https://cytrogen.icu/posts/6e69.html)
 - [观《玩具熊的五夜后宫 2》](https://cytrogen.icu/posts/5097.html)
 - [尝试去中心化和去 App 化](https://cytrogen.icu/posts/9572.html)
 - [你缺这 2.75 美元吗](https://cytrogen.icu/posts/d33e.html)
-- [儿童网红背后的黑暗](https://cytrogen.icu/posts/196a.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
