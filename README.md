@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [乙巳想法复盘](https://cytrogen.icu/posts/f77.html)
 - [中文网络写作上的规则习惯](https://cytrogen.icu/posts/c5d9.html)
 - [离开纽约市的一天](https://cytrogen.icu/posts/18b0.html)
 - [观《疯狂动物城 2》](https://cytrogen.icu/posts/7240.html)
 - [当 True 并不是 True](https://cytrogen.icu/posts/6e69.html)
-- [观《玩具熊的五夜后宫 2》](https://cytrogen.icu/posts/5097.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
