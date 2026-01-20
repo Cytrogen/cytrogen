@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [初次走半马](https://cytrogen.icu/posts/53f4.html)
 - [Emacs 里配置邮箱服务](https://cytrogen.icu/posts/4420.html)
 - [想法在乙巳临月迭代](https://cytrogen.icu/posts/b211.html)
 - [乙巳想法复盘](https://cytrogen.icu/posts/f77.html)
 - [中文网络写作上的规则习惯](https://cytrogen.icu/posts/c5d9.html)
-- [离开纽约市的一天](https://cytrogen.icu/posts/18b0.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
