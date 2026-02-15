@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [用笑脸玩扫雷](https://cytrogen.icu/posts/9408.html)
 - [女人的血](https://cytrogen.icu/posts/df9e.html)
 - [读《那片血一般红的杜鹃花》](https://cytrogen.icu/posts/9027.html)
 - [想法在丙午岁始迭代](https://cytrogen.icu/posts/c089.html)
 - [最能保障「数字主权」的 VPS 公司](https://cytrogen.icu/posts/2590.html)
-- [初次走半马](https://cytrogen.icu/posts/53f4.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
