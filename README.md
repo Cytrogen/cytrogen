@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [4 个字符为一组构成的城市](https://cytrogen.icu/posts/cf35.html)
 - [玩《茂林源记》](https://cytrogen.icu/posts/cc52.html)
 - [用笑脸玩扫雷](https://cytrogen.icu/posts/9408.html)
 - [女人的血](https://cytrogen.icu/posts/df9e.html)
 - [读《那片血一般红的杜鹃花》](https://cytrogen.icu/posts/9027.html)
-- [想法在丙午岁始迭代](https://cytrogen.icu/posts/c089.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
